@@ -34,7 +34,7 @@ $resumo = $cestaObj->obterResumo();
                 <li class="nav-item mb-2"><a href="fornecedores.php" class="nav-link rounded text-white">🏢 Fornecedores</a></li>
                 <li class="nav-item mb-2">
                     <a href="cesta.php" class="nav-link rounded text-white d-flex justify-content-between align-items-center">
-                        🛒 Ver Cesta <span class="badge bg-danger"><?=count($cestaObj->obterItens())?></span>
+                        🛒 Cesta <span class="badge bg-danger"><?=count($cestaObj->obterItens())?></span>
                     </a>
                 </li>
             </ul>

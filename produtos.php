@@ -46,7 +46,7 @@ $fornecedores = $fornecedorObj->listar();
                 <li class="nav-item mb-2"><a href="painel.php" class="nav-link rounded text-white">🏠 Início</a></li>
                 <li class="nav-item mb-2"><a href="produtos.php" class="nav-link rounded active">📦 Produtos</a></li>
                 <li class="nav-item mb-2"><a href="fornecedores.php" class="nav-link rounded text-white">🏢 Fornecedores</a></li>
-                <li class="nav-item mb-2"><a href="cesta.php" class="nav-link rounded text-white">🛒 Ver Cesta</a></li>
+                <li class="nav-item mb-2"><a href="cesta.php" class="nav-link rounded text-white">🛒 Cesta</a></li>
             </ul>
         </nav>
 
