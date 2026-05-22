@@ -110,3 +110,16 @@ private $password = "sua_senha";
 
 Abra o navegador e acesse:
 `http://localhost/gestao_produtos/index.php`
+
+### 6. Diagrama Entidade Relacionamento (DER)
+
+<img width="1672" height="941" alt="der_gestao_produtos" src="https://github.com/user-attachments/assets/456cf33e-e6e7-466b-baa6-27de88eeb3fa" />
+
+### 7. Telas
+
+<img width="1876" height="920" alt="1" src="https://github.com/user-attachments/assets/bf41da35-0612-40f8-b94f-ee137589ef07" />
+<img width="1876" height="920" alt="2" src="https://github.com/user-attachments/assets/5d48d7be-19cf-44b9-ab4c-07baa4645b15" />
+<img width="1875" height="920" alt="3" src="https://github.com/user-attachments/assets/6854b863-1c0d-4dd9-b8c0-e94ae1e26a09" />
+<img width="1875" height="920" alt="4" src="https://github.com/user-attachments/assets/32bd95bf-c3ff-4e38-a6da-c56848678428" />
+<img width="1874" height="922" alt="5" src="https://github.com/user-attachments/assets/b0a45aae-891d-4e8f-ae64-2d9f537f02e1" />
+
